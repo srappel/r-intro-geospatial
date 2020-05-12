@@ -22,6 +22,8 @@ The the [R for Raster and Vector Data](https://datacarpentry.org/r-raster-vector
 provides a more in-depth introduction to visualization (focusing on geospatial data),
 and working with data structures unique to geospatial data.
 
+This is a variant of the [Geospatial Data Carpentry Workshop](https://datacarpentry.org/geospatial-workshop/) [Introduction to R for Geospatial Data Lesson](https://datacarpentry.org/r-intro-geospatial/) created at UW-Madison as part of video workshop series.
+
 > ## Getting Started
 >
 > Data Carpentry's teaching is hands-on, so participants are encouraged to use
