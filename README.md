@@ -5,6 +5,9 @@
 
 # Intro to R for Geospatial data
 
+This is a variant of the [Geospatial Data Carpentry Workshop](https://datacarpentry.org/geospatial-workshop/) created at UW-Madison as part of video workshop series.
+This lesson repo is a version of the [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) developed for the video workshop series.
+
 <!-- TODO: Update first pararaph of the introduction if they data changes -->
 
 An introduction to R for non-programmers using the [Gapminder][gapminder] data.
@@ -34,14 +37,6 @@ suggested lesson plans suitable for a one or half day workshop.
 
 #### Maintainers:
 
-* Leah Wasser
-* Joseph Stachelek
-* Tyson Swetnam
-* Lauren O'Brien
-* Janani Selvaraj
-* Lachlan Deer
-* Chris Prener
-* Juan Fung
 
 [gapminder]: http://www.gapminder.org/
 [lesson-example]: https://carpentries.github.io/lesson-example
