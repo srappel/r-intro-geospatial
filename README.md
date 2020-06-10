@@ -33,8 +33,11 @@ The lesson contains material than can be taught in about 4 hours. The
 page](https://datacarpentry.org/r-intro-geospatial/guide/index.html) has some
 suggested lesson plans suitable for a one or half day workshop.
 
-#### Maintainers:
+#### Contribtuions and Edits
 
+All changes for this lessons should be done in the `master` branch.  Changes in the gh-pages branch will be overwritten by travis CI.
+
+#### Maintainers:
 
 [gapminder]: http://www.gapminder.org/
 [lesson-example]: https://carpentries.github.io/lesson-example
