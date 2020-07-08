@@ -166,11 +166,12 @@ Now we have a good directory structure we will now place/save our data files in 
 {: .challenge}
 
 > ## Challenge 2
-> We also want to move the data that we downloaded from the [data page](http://datacarpentry.org/geospatial-workshop/data/) into a subdirectory
+> We also want to move the data that we downloaded from the [setup page](https://uw-madison-datascience.github.io/geospatial-workshop/setup.html) into a subdirectory
 > inside `r-geospatial`. If you haven't already downloaded the data, you can do so by clicking 
-> [this download link](https://ndownloader.figshare.com/articles/2009586/versions/10). 
-> 1. Move the downloaded zip file to the `data` directory.
-> 2. Once the data have been moved, unzip all files.
+> [this download link](https://ndownloader.figshare.com/files/23135981). 
+> 1. Unzip the file
+> 2. Move the data into the data folder of your project
+> 3. Unzip all the data files
 {: .challenge}
 
 Once you have completed moving the data across to the new folder,
